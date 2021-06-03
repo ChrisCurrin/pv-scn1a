@@ -29,7 +29,7 @@ First compile the mod files with a command like `nrnivmodl`
 
 ## About
 
-This model uses the NEURON simulation environment and was contributed by A Bryson.
+This model uses the NEURON simulation environment
 
 Model morphology and mechanisms taken from the BBP Neocortical Microcircuit Portal:
 https://bbp.epfl.ch/nmc-portal/welcome
