@@ -1,7 +1,7 @@
 # helper functions
 
 from typing import Iterable
-import pandas as np
+import pandas as pd
 import numpy as np
 
 from src.constants import DISTANCE_LABEL, NAV_FRAC_LABEL, SECTION_LABEL
@@ -46,4 +46,4 @@ def nearest_value(arr, value):
 
 
 def get_last_sec(long_df):
-    return long_df.iloc[long_df[DISTANCE_LABEL].idxmax()][SECTION_LABEL]
+    return long_df.loc[long_df[DISTANCE_LABEL].idxmax()][SECTION_LABEL]
