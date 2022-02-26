@@ -1,5 +1,7 @@
 # PV-IN Axon Dysfunction in Dravet syndrome
 
+[![DOI](https://zenodo.org/badge/373166397.svg)](https://zenodo.org/badge/latestdoi/373166397)
+
 Code for model as appears in 
 
 > Keisuke Kaneko, Christopher B. Currin, Kevin M. Goff, Ala Somarowthu, Tim P. Vogels, Ethan M. Goldberg. Developmentally-regulated impairment of parvalbumin interneuron synaptic transmission in an experimental model of Dravet syndrome. bioRxiv 2021.07.28.454042; doi: https://doi.org/10.1101/2021.07.28.454042
